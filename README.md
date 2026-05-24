@@ -1,4 +1,4 @@
-**# winequality-prediction**# 🍷 Wine Quality Prediction using Machine Learning (SVM)
+# 🍷 Wine Quality Prediction using Machine Learning (SVM)
 
 This project predicts whether a wine is of **good or bad quality** using its physicochemical properties with a Support Vector Machine (SVM) model.
 
